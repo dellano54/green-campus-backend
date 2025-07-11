@@ -1,0 +1,12 @@
+[
+  {
+    "id": "staff_0",
+    "username": "staff",
+    "name": "Staff",
+    "email": "staff@srm.com",
+    "phone": "646463784646",
+    "role": "cleaner",
+    "taskCompleted": 0,
+    "joinDate": "2025-07-10T20:59:20.737Z"
+  }
+]

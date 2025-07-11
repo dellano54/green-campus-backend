@@ -1,0 +1,44 @@
+{
+  "floor_1": [
+    { "id": "room_1", "blockId": "block_1", "floorId": "floor_1", "roomNumber": "101", "status": "completed", "assignedCleaner": "John Doe", "lastCleaned": "2024-07-09T18:30:00Z", "nextScheduled": "2024-07-10T09:00:00Z" },
+    { "id": "room_2", "blockId": "block_1", "floorId": "floor_1", "roomNumber": "102", "status": "pending", "assignedCleaner": "Alice", "nextScheduled": "2024-07-10T10:00:00Z" },
+    { "id": "room_3", "blockId": "block_1", "floorId": "floor_1", "roomNumber": "103", "status": "completed", "assignedCleaner": "Mark", "lastCleaned": "2024-07-09T15:00:00Z", "nextScheduled": "2024-07-10T09:45:00Z" },
+    { "id": "room_4", "blockId": "block_1", "floorId": "floor_1", "roomNumber": "104", "status": "in-progress", "assignedCleaner": "Nina" },
+    { "id": "room_5", "blockId": "block_1", "floorId": "floor_1", "roomNumber": "105", "status": "pending", "assignedCleaner": "Liam" }
+  ],
+  "floor_2": [
+    { "id": "room_6", "blockId": "block_2", "floorId": "floor_2", "roomNumber": "201", "status": "completed", "assignedCleaner": "Emma", "lastCleaned": "2024-07-09T14:00:00Z", "nextScheduled": "2024-07-10T08:30:00Z" },
+    { "id": "room_7", "blockId": "block_2", "floorId": "floor_2", "roomNumber": "202", "status": "in-progress", "assignedCleaner": "Noah" },
+    { "id": "room_8", "blockId": "block_2", "floorId": "floor_2", "roomNumber": "203", "status": "pending", "assignedCleaner": "Sophia" },
+    { "id": "room_9", "blockId": "block_2", "floorId": "floor_2", "roomNumber": "204", "status": "completed", "assignedCleaner": "Oliver", "lastCleaned": "2024-07-09T16:00:00Z", "nextScheduled": "2024-07-10T10:00:00Z" },
+    { "id": "room_10", "blockId": "block_2", "floorId": "floor_2", "roomNumber": "205", "status": "pending", "assignedCleaner": "Ava" },
+    { "id": "room_11", "blockId": "block_2", "floorId": "floor_2", "roomNumber": "206", "status": "completed", "assignedCleaner": "Elijah", "lastCleaned": "2024-07-09T13:30:00Z" },
+    { "id": "room_12", "blockId": "block_2", "floorId": "floor_2", "roomNumber": "207", "status": "in-progress", "assignedCleaner": "Mia" },
+    { "id": "room_13", "blockId": "block_2", "floorId": "floor_2", "roomNumber": "208", "status": "pending", "assignedCleaner": "James" },
+    { "id": "room_14", "blockId": "block_2", "floorId": "floor_2", "roomNumber": "209", "status": "completed", "assignedCleaner": "Amelia", "lastCleaned": "2024-07-09T11:30:00Z" }
+  ],
+  "floor_3": [
+    { "id": "room_15", "blockId": "block_3", "floorId": "floor_3", "roomNumber": "301", "status": "pending", "assignedCleaner": "Jack" },
+    { "id": "room_16", "blockId": "block_3", "floorId": "floor_3", "roomNumber": "302", "status": "in-progress", "assignedCleaner": "Chloe" },
+    { "id": "room_17", "blockId": "block_3", "floorId": "floor_3", "roomNumber": "303", "status": "completed", "assignedCleaner": "Lucas", "lastCleaned": "2024-07-09T12:00:00Z" },
+    { "id": "room_18", "blockId": "block_3", "floorId": "floor_3", "roomNumber": "304", "status": "pending", "assignedCleaner": "Isla" },
+    { "id": "room_19", "blockId": "block_3", "floorId": "floor_3", "roomNumber": "305", "status": "completed", "assignedCleaner": "Leo", "lastCleaned": "2024-07-09T13:15:00Z" },
+    { "id": "room_20", "blockId": "block_3", "floorId": "floor_3", "roomNumber": "306", "status": "in-progress", "assignedCleaner": "Zoe" },
+    { "id": "room_21", "blockId": "block_3", "floorId": "floor_3", "roomNumber": "307", "status": "pending", "assignedCleaner": "Henry" },
+    { "id": "room_22", "blockId": "block_3", "floorId": "floor_3", "roomNumber": "308", "status": "completed", "assignedCleaner": "Lily", "lastCleaned": "2024-07-09T10:00:00Z" },
+    { "id": "room_23", "blockId": "block_3", "floorId": "floor_3", "roomNumber": "309", "status": "pending", "assignedCleaner": "Ella" },
+    { "id": "room_24", "blockId": "block_3", "floorId": "floor_3", "roomNumber": "310", "status": "completed", "assignedCleaner": "Nathan", "lastCleaned": "2024-07-09T09:45:00Z" }
+  ],
+  "floor_4": [
+    { "id": "room_25", "blockId": "block_4", "floorId": "floor_4", "roomNumber": "401", "status": "in-progress", "assignedCleaner": "Aiden" },
+    { "id": "room_26", "blockId": "block_4", "floorId": "floor_4", "roomNumber": "402", "status": "pending", "assignedCleaner": "Emily" },
+    { "id": "room_27", "blockId": "block_4", "floorId": "floor_4", "roomNumber": "403", "status": "completed", "assignedCleaner": "Caleb", "lastCleaned": "2024-07-09T08:30:00Z" },
+    { "id": "room_28", "blockId": "block_4", "floorId": "floor_4", "roomNumber": "404", "status": "pending", "assignedCleaner": "Scarlett" },
+    { "id": "room_29", "blockId": "block_4", "floorId": "floor_4", "roomNumber": "405", "status": "in-progress", "assignedCleaner": "Ethan" },
+    { "id": "room_30", "blockId": "block_4", "floorId": "floor_4", "roomNumber": "406", "status": "pending", "assignedCleaner": "Grace" },
+    { "id": "room_31", "blockId": "block_4", "floorId": "floor_4", "roomNumber": "407", "status": "completed", "assignedCleaner": "Aria", "lastCleaned": "2024-07-09T07:45:00Z" },
+    { "id": "room_32", "blockId": "block_4", "floorId": "floor_4", "roomNumber": "408", "status": "pending", "assignedCleaner": "David" },
+    { "id": "room_33", "blockId": "block_4", "floorId": "floor_4", "roomNumber": "409", "status": "completed", "assignedCleaner": "Bella", "lastCleaned": "2024-07-09T06:50:00Z" },
+    { "id": "room_34", "blockId": "block_4", "floorId": "floor_4", "roomNumber": "410", "status": "pending", "assignedCleaner": "Ryan" }
+  ]
+}

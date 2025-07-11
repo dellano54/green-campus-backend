@@ -1,0 +1,14 @@
+{"2024-01-15": [
+        {
+            "id": "schedule_1",
+            "blockId": "block_1",
+            "floorId": "floor_1",
+            "roomId": "room_1",
+            "date": "2024-01-15",
+            "time": "09:00",
+            "assignedStaff": "staff_1",
+            "status": "scheduled",
+            "notes": "Regular cleaning"
+        }
+    ]
+}

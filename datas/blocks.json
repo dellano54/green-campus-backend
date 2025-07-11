@@ -1,0 +1,16 @@
+[
+  {
+    "id": "0",
+    "name": "Main Block",
+    "totalRooms": 50,
+    "totalFloors": 5,
+    "status": "active"
+  },
+  {
+    "id": "1",
+    "name": "Academic Block",
+    "totalRooms": 40,
+    "totalFloors": 4,
+    "status": "active"
+  }
+]

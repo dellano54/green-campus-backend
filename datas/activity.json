@@ -1,0 +1,30 @@
+{
+    "stats": {
+        "totalRooms": 34,
+        "roomsCleanedToday": 0,
+        "totalBlocks": 2,
+        "totalStaff": 12
+    },
+
+    "activity": [
+        {
+            "id": "activity_1",
+            "type": "cleaning",
+            "description": "Room cleaning completed",
+            "block": "Main Block",
+            "room": "Room 101",
+            "time": "17:44",
+            "status": "completed",
+            "cleaner": "John Doe"
+        },
+        {
+            "id": "activity_2",
+            "type": "scheduling",
+            "description": "New cleaning scheduled",
+            "block": "Academic Block",
+            "room": "Room 205",
+            "time": "16:50",
+            "status": "scheduled"
+  }
+]
+}
